@@ -1,0 +1,1 @@
+print("no matter what happened keep moving")
